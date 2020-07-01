@@ -1,4 +1,3 @@
-//export default + anonymous function
 var reps = 0;
 var sets = 0;
 
